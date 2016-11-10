@@ -16,7 +16,7 @@ This project fulfills the functional requirement of being able to register a use
 
 ## How to use:
 
-On the entry screen there are 3 options, &quot;Enrol New User&quot; and &quot;Verify User For Vote&quot;, and &quot;See Votes&quot;.
+On the entry screen there are 3 options, &quot;Enrol New User&quot;, &quot;Verify User For Vote&quot;, and &quot;See Votes&quot;.
 
 ### Both are fairly self explanatory;
 
