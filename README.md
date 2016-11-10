@@ -16,7 +16,7 @@ This project fulfills the functional requirement of being able to register a use
 
 ## How to use:
 
-On the entry screen there are 2 options, &quot;Enrol New User&quot; and &quot;Verify Enroled User&quot;.
+On the entry screen there are 2 options, &quot;Enrol New User&quot; and &quot;Verify Enrolled User&quot;.
 
 ## Both are fairly self explanatory;
 
