@@ -16,7 +16,7 @@ This project fulfills the functional requirement of being able to register a use
 
 ## How to use:
 
-On the entry screen there are 2 options, &quot;Enrol New User&quot; and &quot;Verify Enrolled User&quot;.
+On the entry screen there are 2 options, &quot;Enrol New User&quot; and &quot;Verify Enroled User&quot;.
 
 ## Both are fairly self explanatory;
 
@@ -25,7 +25,7 @@ On the entry screen there are 2 options, &quot;Enrol New User&quot; and &quot;Ve
 
 ## NOTES:
 
-- For enrollment, duplicate names are not allowed. The project will verbally warn the user that the name entered already exists if attempted.
+- For enrolment, duplicate names are not allowed. The project will verbally warn the user that the name entered already exists if attempted.
 - The project requires internet connectivity to function.
 - Since the speech client uses the internet to talk to the user, the speed of the internet connection will affect how responsive the project is.
 - While the program is talking to the user, no other actions can be taken. This includes the recording of the user&#39;s voice, so the user must wait for the program to finish before responding with their passphrase.
