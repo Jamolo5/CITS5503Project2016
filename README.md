@@ -16,12 +16,13 @@ This project fulfills the functional requirement of being able to register a use
 
 ## How to use:
 
-On the entry screen there are 2 options, &quot;Enrol New User&quot; and &quot;Verify Enrolled User&quot;.
+On the entry screen there are 3 options, &quot;Enrol New User&quot; and &quot;Verify User For Vote&quot;, and &quot;See Votes&quot;.
 
-## Both are fairly self explanatory;
+### Both are fairly self explanatory;
 
 - &quot;Enrol New User&quot; creates a new user profile and attempts to enrol their voice.
 - &quot;Verify Enrolled User&quot; takes a name and checks it against the database, then allows the user to attempt to verify their voice before then allowing them to vote if they successfully verify.
+- &quot;See Votes&quot; allows a user to view the stored votes, with a single comment in the code can be disabled if such functionality is not desired.
 
 ## NOTES:
 
