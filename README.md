@@ -18,7 +18,7 @@ This project fulfills the functional requirement of being able to register a use
 
 On the entry screen there are 3 options, &quot;Enrol New User&quot;, &quot;Verify User For Vote&quot;, and &quot;See Votes&quot;.
 
-### Both are fairly self explanatory;
+### All are fairly self explanatory;
 
 - &quot;Enrol New User&quot; creates a new user profile and attempts to enrol their voice.
 - &quot;Verify Enrolled User&quot; takes a name and checks it against the database, then allows the user to attempt to verify their voice before then allowing them to vote if they successfully verify.
@@ -31,6 +31,7 @@ On the entry screen there are 3 options, &quot;Enrol New User&quot;, &quot;Verif
 - Since the speech client uses the internet to talk to the user, the speed of the internet connection will affect how responsive the project is.
 - While the program is talking to the user, no other actions can be taken. This includes the recording of the user&#39;s voice, so the user must wait for the program to finish before responding with their passphrase.
 - Currently the implementation uses a locally stored file to store both votes and profile IDs, this functions when running on only one machine, but full deployment will require storing votes and profile IDs to a cloud provider&#39;s storage service.
+- Similarly to the last point, the API key for making use of the voice verification and text-to-speech are hard-coded into the project. In a real deployment such keys would not be handled directly but rather use a service like Azure's keyvault or similar.
 
 ## References:
 
