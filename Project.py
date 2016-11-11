@@ -14,7 +14,7 @@ if (not "Trump" in d) or (not "Hillary" in d):
     d["Trump"] = 0
     d["Hillary"] = 0
 
-verifKey = "b59409633b324dd183ee08edb6e498f2"
+verifKey = "SpeechVerificationKeyHere"
 sc = SpeechClient("7f94930a0af8458aaf9e58e189d4d32f", gender='Female', locale='en-US')
 
 TITLE_FONT = ("Helvetica", 18, "bold")
