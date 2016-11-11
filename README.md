@@ -8,11 +8,12 @@ This project fulfills the functional requirement of being able to register a use
 
 ## To run this project:
 
-1. Open a command prompt (preferably with admin privileges).
-2. Navigate to this folder.
-3. If this is the first time running the project, run &quot;pip install -r requirements.txt&quot; in the command prompt.
-4. Run &quot;python Project.py&quot;
-5. A GUI should appear, this is the project.
+1. Edit the verifKey variable near the top of project.py to contain the API key for your Speech Verification subscription.
+2. Open a command prompt (preferably with admin privileges).
+3. Navigate to the folder the project is downloaded to.
+4. If this is the first time running the project, run &quot;pip install -r requirements.txt&quot; in the command prompt.
+5. Run &quot;python Project.py&quot;
+6. A GUI should appear, this is the project.
 
 ## How to use:
 
